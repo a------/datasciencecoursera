@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science aToolkit
+Data Science Toolkit
